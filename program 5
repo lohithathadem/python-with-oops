@@ -1,4 +1,4 @@
-lass shape:
+class shape:
     def area(self):
       print("shape of area")
 class circle(shape):
